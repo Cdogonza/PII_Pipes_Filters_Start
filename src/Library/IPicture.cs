@@ -58,5 +58,6 @@ namespace CompAndDel
         /// </summary>
         /// <returns>Una copia de la imagen.</returns>
         IPicture Clone();
+        
     }
 }

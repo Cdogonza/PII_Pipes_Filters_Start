@@ -53,5 +53,6 @@ namespace CompAndDel
                 image.Save(path);
             }
         }
+        
     }
 }
